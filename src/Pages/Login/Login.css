@@ -1,0 +1,57 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: skyblue;
+    padding: 0.4rem;
+}
+.login{
+   background: url("../../Assets/images/bg.jpg");
+   background-size: cover;
+   height: 100vh;
+   
+
+
+}
+.header_content{
+    display: flex;
+
+}
+.header_content>a{
+    color: purple;
+    margin: 1rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.header>a{
+    color: purple;
+    margin: 1rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.header>p{
+    color: purple;
+    margin: 1rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.body{
+background-color:transparent;
+height: 100vh;
+}
+.Login_card{
+    position: absolute;
+    background-color: skyblue;
+    height: 300px;
+    width: 300px;
+    margin-left: 35vw;
+    margin-top: 22vh;
+    color: white;
+    border-radius: 12px;
+}
+
+.login_button{
+    position: relative;
+    margin-top: 5rem;
+    margin-left:5rem;
+}

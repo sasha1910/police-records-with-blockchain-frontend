@@ -1,0 +1,13 @@
+.content{
+    display: flex;
+    background-color: #12192c;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    margin-left: 5px;
+    
+}
+.top{
+    width: 100vw;
+}
